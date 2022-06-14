@@ -1,0 +1,26 @@
+H1{
+    background-color: #DDD;
+    margin: auto;
+    text-align: center;
+    top: 30PX;
+    font-family: sans-serif;
+}
+H3{
+    color: rgb(8, 136, 168);
+    margin: auto;
+    text-align: center;
+}
+p{
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    padding-top: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: arial;
+    color: rgb(0, 87, 218);
+}
+span{
+    font-size: 30px;
+    color:tomato;
+}
